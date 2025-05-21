@@ -1,4 +1,4 @@
-# Website Scraper with AI - README
+# Website Scraper with AI
 
 ## Overview
 This is a Python-based web application built with Streamlit that allows users to scrape content from a website and extract specific information using AI-powered analysis. The program uses BeautifulSoup to parse website HTML, extracts text, and sends it to the Groq API (using the llama-3.3-70b-versatile model) to answer user-defined queries about the scraped content. The application provides a simple, interactive user interface where users can input a website URL and specify what information they want to extract.
